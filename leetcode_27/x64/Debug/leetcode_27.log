@@ -1,0 +1,3 @@
+﻿  leetcode_27.cpp
+C:\Users\AstraUmbra\source\repos\leetcode_27\leetcode_27\leetcode_27.cpp(13,1): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+  leetcode_27.vcxproj -> C:\Users\AstraUmbra\source\repos\leetcode_27\x64\Debug\leetcode_27.exe

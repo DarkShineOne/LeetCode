@@ -1,0 +1,3 @@
+﻿  leetcode_67.cpp
+C:\Users\AstraUmbra\source\repos\leetcode_67\leetcode_67\leetcode_67.cpp(13,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  leetcode_67.vcxproj -> C:\Users\AstraUmbra\source\repos\leetcode_67\x64\Debug\leetcode_67.exe
